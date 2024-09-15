@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lidwigal.github.io/sitemap.html.gz
+Sitemap: https://lidwigal.github.io/app/sitemap.html.gz
+Sitemap: https://lidwigal.github.io/assets/sitemap.html.gz
+Sitemap: https://lidwigal.github.io/css/sitemap.html.gz
+Sitemap: https://lidwigal.github.io/includes/sitemap.html.gz
+Sitemap: https://lidwigal.github.io/item/sitemap.html.gz
+Sitemap: https://lidwigal.github.io/src/sitemap.html.gz
